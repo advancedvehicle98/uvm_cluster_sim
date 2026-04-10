@@ -1,0 +1,1 @@
+-coverage -voptargs="+acc +cover=f+/tb/dut" +UVM_NO_RELNOTES
