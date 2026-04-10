@@ -1,3 +1,3 @@
 самый тупой курсачь
 
-![img](src/diagram.jpg)
+![img](images/diagram.jpg)
